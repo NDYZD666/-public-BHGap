@@ -8,9 +8,7 @@
   <a href="https://doi.org/10.1145/3774904.3792417"><img src="https://img.shields.io/badge/Venue-WWW%202026%20(Oral)-1f6feb?style=flat-square" alt="WWW 2026 Oral"></a>
   <a href="https://doi.org/10.1145/3774904.3792417"><img src="https://img.shields.io/badge/Paper-ACM%20DL-b31b1b?style=flat-square" alt="Paper"></a>
   <a href="https://huggingface.co/NiDeYingZiD/BHGap-ckpt"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-FFD21E?style=flat-square" alt="Hugging Face Checkpoints"></a>
-  <img src="https://img.shields.io/badge/Task-Dynamic%20Facial%20Expression%20Recognition-8957e5?style=flat-square" alt="Task">
-  <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10">
-  <img src="https://img.shields.io/badge/PyTorch-2.1.1-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch 2.1.1">
+
 </p>
 
 **[Yichi Zhang](mailto:51285902110@stu.ecnu.edu.cn), [Yunqi Han](mailto:51275902170@stu.ecnu.edu.cn), [Jiayue Ding](mailto:51285902128@stu.ecnu.edu.cn), [Liangyu Chen](mailto:lychen@sei.ecnu.edu.cn)<sup>†</sup>**
